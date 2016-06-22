@@ -2,4 +2,3 @@ README.
 
 *pong*
 *ping*
-*pong*
